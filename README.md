@@ -5,6 +5,8 @@
 ## What I'm building
 
 - 🤖 AI-assisted workflows and study tools for university students
+  - [university-solution-explainer](https://github.com/eloklam/university-solution-explainer)
+  - [siyuan-agent](https://github.com/eloklam/siyuan-agent)
 - 🎮 Game design as a hobby
 
 ## Stack
