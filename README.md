@@ -1,24 +1,25 @@
 # Hi, I'm Enoch 👋
 
-> Mechanical engineering student at [RWTH Aachen](https://en.wikipedia.org/wiki/RWTH_Aachen_University), Germany.
+> - Founder at [GROW Platform](usegrow.io)
+> - Mechanical engineering student at [RWTH Aachen](https://en.wikipedia.org/wiki/RWTH_Aachen_University), Germany
+> - Corpsstudent at [Corps Saxo-Montania Aachen](https://www.saxo-montania.de/)
 
 ## What I'm building
 
-- 🤖 AI-assisted workflows and study tools for university students
+- 📚 Study tools for university students
+  - [GROW Platform](usegrow.io)
   - [university-solution-explainer](https://github.com/eloklam/university-solution-explainer)
-  - [siyuan-agent](https://github.com/eloklam/siyuan-agent)
+- 🤖 Workflows and tools for AI Agents
   - [oh-my-hermes-agent](https://github.com/eloklam/oh-my-hermes-agent)
+  - [siyuan-agent](https://github.com/eloklam/siyuan-agent)
 
-## Stack
-
-- Python, JavaScript/TypeScript
-- Prompt engineering for AI-assisted programming
 
 ## Currently
 
 - Finishing BSc Maschinenbau (BSc Mechnical Engineering)
-- Building with [n8n](https://n8n.io), [OpenClaw](https://openclaw.ai/), [OpenAI Codex](https://openai.com/codex/) and [SiYuan Notes](https://github.com/siyuan-note/siyuan)
+- Launching [GROW Platform](usegrow.io)
+- Building with [n8n](https://n8n.io), [Hermes Agent](https://hermes-agent.nousresearch.com/), [OpenAI Codex](https://openai.com/codex/) and [SiYuan Notes](https://github.com/siyuan-note/siyuan)
 
 ## Contact
 
-- 📧 enochlam2002@gmail.com
+- 📧 enoch@eloklam.com
