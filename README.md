@@ -7,7 +7,7 @@
 - 🤖 AI-assisted workflows and study tools for university students
   - [university-solution-explainer](https://github.com/eloklam/university-solution-explainer)
   - [siyuan-agent](https://github.com/eloklam/siyuan-agent)
-  - [oh-my-hermes-agent]([url](https://github.com/eloklam/oh-my-hermes-agent))
+  - [oh-my-hermes-agent](https://github.com/eloklam/oh-my-hermes-agent)
 
 ## Stack
 
